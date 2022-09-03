@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fbf1bdc.css",
-    "main.js": "/static/js/main.e2e8ac2b.js",
+    "main.css": "/static/css/main.e7d9f459.css",
+    "main.js": "/static/js/main.ddd33c09.js",
     "static/media/img_1.jpg": "/static/media/img_1.fb36d99d281c4eecf0eb.jpg",
     "static/media/Rubik-Regular.ttf": "/static/media/Rubik-Regular.974ab100afa4538622da.ttf",
     "static/media/pulogo.svg": "/static/media/pulogo.eab4cec67fcf336633a5eabc6e1ba740.svg",
@@ -11,11 +11,11 @@
     "static/media/calender.svg": "/static/media/calender.c2f6831c3af0d0e225ab5331b85bca40.svg",
     "static/media/time.svg": "/static/media/time.fdba571ff191332274f37ab567c7ef35.svg",
     "index.html": "/index.html",
-    "main.1fbf1bdc.css.map": "/static/css/main.1fbf1bdc.css.map",
-    "main.e2e8ac2b.js.map": "/static/js/main.e2e8ac2b.js.map"
+    "main.e7d9f459.css.map": "/static/css/main.e7d9f459.css.map",
+    "main.ddd33c09.js.map": "/static/js/main.ddd33c09.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fbf1bdc.css",
-    "static/js/main.e2e8ac2b.js"
+    "static/css/main.e7d9f459.css",
+    "static/js/main.ddd33c09.js"
   ]
 }
