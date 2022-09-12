@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7d9f459.css",
-    "main.js": "/static/js/main.ddd33c09.js",
+    "main.css": "/static/css/main.c2887578.css",
+    "main.js": "/static/js/main.d8fe360e.js",
     "static/media/img_1.jpg": "/static/media/img_1.fb36d99d281c4eecf0eb.jpg",
     "static/media/Rubik-Regular.ttf": "/static/media/Rubik-Regular.974ab100afa4538622da.ttf",
     "static/media/pulogo.svg": "/static/media/pulogo.eab4cec67fcf336633a5eabc6e1ba740.svg",
     "static/media/login.svg": "/static/media/login.ff4097336cfac6f9e9ce6e03337c1966.svg",
     "static/media/changepassword.svg": "/static/media/changepassword.d8d1a05870bc7489c2ecb74c3c53ab62.svg",
     "static/media/verification.svg": "/static/media/verification.4b3a53298015483148ae8dc17f6b62dc.svg",
-    "static/media/calender.svg": "/static/media/calender.c2f6831c3af0d0e225ab5331b85bca40.svg",
-    "static/media/time.svg": "/static/media/time.fdba571ff191332274f37ab567c7ef35.svg",
+    "static/media/calender.svg": "/static/media/calender.245b0fab5945efe41906002b70e409d4.svg",
+    "static/media/time.svg": "/static/media/time.ee69879eda5c97d2b9c7c6a1f53d9a0e.svg",
     "index.html": "/index.html",
-    "main.e7d9f459.css.map": "/static/css/main.e7d9f459.css.map",
-    "main.ddd33c09.js.map": "/static/js/main.ddd33c09.js.map"
+    "main.c2887578.css.map": "/static/css/main.c2887578.css.map",
+    "main.d8fe360e.js.map": "/static/js/main.d8fe360e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7d9f459.css",
-    "static/js/main.ddd33c09.js"
+    "static/css/main.c2887578.css",
+    "static/js/main.d8fe360e.js"
   ]
 }
