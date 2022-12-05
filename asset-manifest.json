@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.56e84669.css",
-    "main.js": "/static/js/main.fa35b20a.js",
-    "static/media/img_1.jpg": "/static/media/img_1.fb36d99d281c4eecf0eb.jpg",
+    "main.css": "/static/css/main.9f476e8d.css",
+    "main.js": "/static/js/main.89d5a484.js",
     "static/media/Rubik-Regular.ttf": "/static/media/Rubik-Regular.974ab100afa4538622da.ttf",
     "static/media/pulogo.svg": "/static/media/pulogo.eab4cec67fcf336633a5eabc6e1ba740.svg",
     "static/media/login.svg": "/static/media/login.ff4097336cfac6f9e9ce6e03337c1966.svg",
@@ -11,11 +10,11 @@
     "static/media/calender.svg": "/static/media/calender.245b0fab5945efe41906002b70e409d4.svg",
     "static/media/time.svg": "/static/media/time.ee69879eda5c97d2b9c7c6a1f53d9a0e.svg",
     "index.html": "/index.html",
-    "main.56e84669.css.map": "/static/css/main.56e84669.css.map",
-    "main.fa35b20a.js.map": "/static/js/main.fa35b20a.js.map"
+    "main.9f476e8d.css.map": "/static/css/main.9f476e8d.css.map",
+    "main.89d5a484.js.map": "/static/js/main.89d5a484.js.map"
   },
   "entrypoints": [
-    "static/css/main.56e84669.css",
-    "static/js/main.fa35b20a.js"
+    "static/css/main.9f476e8d.css",
+    "static/js/main.89d5a484.js"
   ]
 }
